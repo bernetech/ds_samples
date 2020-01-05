@@ -9,3 +9,6 @@ this README and three Jupyter notebooks:
   - housing_prices.ipynb:  annotated entry for the 
 	  "house-prices-advanced-regression-techniques" competition on kaggle.com.
     Written in Python using Pandas, Matplotlib, Seaborn, and scikit-learn libraries.
+  - detroit_citation_prediction.ipynb:  prediction of compliance for blight
+	  citation payments in the city of Detroit.  Written in Python using Pandas
+		and scikit-learn libraries.
