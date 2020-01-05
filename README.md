@@ -8,4 +8,4 @@ this README and three Jupyter notebooks:
 	  crime statistics from the city of San Francisco during the summer of 2014.  Written in R.
   - housing_prices.ipynb:  annotated entry for the 
 	  "house-prices-advanced-regression-techniques" competition on kaggle.com.
-    Written in Python using Pandas and scikit-learn libraries.
+    Written in Python using Pandas, Matplotlib, Seaborn, and scikit-learn libraries.
