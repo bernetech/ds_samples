@@ -1,6 +1,6 @@
 # ds_samples
 A repository for sample data science projects.  This directory consists of 
-this README and three Jupyter notebooks:
+this README and four Jupyter notebooks:
   - OSU_vs_UM_attendance.ipynb:  a visualization created from multiple datasets 
 	  to show college football attendance statistics.  Written in Python using 
 		Pandas and Matplotlib libraries.
